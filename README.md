@@ -1,16 +1,10 @@
 # get_pet
 
-A new Flutter project.
+Приложение для приютов, и для людей, которые хотят приютить животинку.
 
-## Getting Started
+## Как это будет работать:
 
-This project is a starting point for a Flutter application.
+* Приют, или любой человек, который по той или иной причине не может позаботиться о животном, создают страницу(описание + фотографии).
+* Люди, которые хотят приобрести нового друга, смотрят "кандидатов", выбирают тех, кто им приглянулся, контактируют с владельцем, и забирают.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
